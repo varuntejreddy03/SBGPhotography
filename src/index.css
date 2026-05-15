@@ -124,9 +124,6 @@ h1, h2, h3, h4, h5, h6 {
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   gap: 32px;
 }
-  background-color: var(--color-gold);
-  color: var(--color-dark);
-}
 
 /* ── Film Grain Texture Overlay ── */
 .film-grain::before {
