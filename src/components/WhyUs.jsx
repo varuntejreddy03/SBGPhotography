@@ -4,7 +4,7 @@ import { HiOutlineCamera, HiOutlineClock, HiOutlineLightBulb } from 'react-icons
 
 const stats = [
   { target: 500, suffix: '+', label: 'Events Captured' },
-  { target: 8, suffix: '+', label: 'Years Experience' },
+  { target: 25, suffix: '+', label: 'Years of Legacy' },
   { target: 1000, suffix: '+', label: 'Happy Clients' },
 ]
 

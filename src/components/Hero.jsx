@@ -92,8 +92,8 @@ export default function Hero() {
           custom={0}
           className="font-body text-sm sm:text-base md:text-lg text-cream-muted tracking-[0.2em] uppercase mb-12 max-w-2xl mx-auto opacity-80"
         >
-          Premium Photography & Videography Services by{' '}
-          <span className="text-gold font-medium">B. Akhil Kumar</span>
+          Premium Photography & Videography Since{' '}
+          <span className="text-gold font-medium">1998</span>
         </motion.p>
 
         {/* CTAs */}

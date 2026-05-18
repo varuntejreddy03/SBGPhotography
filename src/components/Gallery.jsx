@@ -14,7 +14,7 @@ const images = [
     url: '/94046.jpg.webp',
     category: 'Pre Wedding',
     title: 'Desert Whispers',
-    rotation: 0
+    rotation: 270
   },
   {
     url: '/94232.jpg.webp',

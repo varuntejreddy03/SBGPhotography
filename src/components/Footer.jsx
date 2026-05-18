@@ -149,7 +149,7 @@ export default function Footer() {
         {/* Bottom Bar */}
         <div className="border-t border-dark-border mt-14 pt-8 flex flex-col md:flex-row items-center justify-between gap-4">
           <p className="font-body text-xs text-cream-muted/60 tracking-wider text-center md:text-left">
-            © 2025 SBG Photography · B. Akhil Kumar · All Rights Reserved
+            © 2025 SBG Photography · All Rights Reserved
           </p>
           <p className="font-body text-xs text-cream-muted/40 tracking-wider">
             Crafted with passion & precision

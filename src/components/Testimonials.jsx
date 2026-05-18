@@ -4,19 +4,19 @@ import { useRef } from 'react'
 const testimonials = [
   {
     quote:
-      'SBG Photography turned our wedding into a cinematic masterpiece. Every frame felt like it was pulled straight from a movie. Akhil truly has an artist\'s eye.',
+      'SBG Photography turned our wedding into a cinematic masterpiece. Every frame felt like it was pulled straight from a movie. The team truly has an artist\'s eye.',
     name: 'Priya & Ravi',
     event: 'Wedding Photography',
   },
   {
     quote:
-      'We booked Akhil for our pre-wedding shoot and the results left us speechless. The way he captured our chemistry and the locations was absolutely magical.',
+      'We booked SBG Photography for our pre-wedding shoot and the results left us speechless. The way they captured our chemistry and the locations was absolutely magical.',
     name: 'Sneha & Karthik',
     event: 'Pre-Wedding Shoot',
   },
   {
     quote:
-      'Our baby\'s first birthday photos are treasures we\'ll cherish forever. Akhil made our little one feel so comfortable, and the photos are pure joy.',
+      'Our baby\'s first birthday photos are treasures we\'ll cherish forever. The photographer made our little one feel so comfortable, and the photos are pure joy.',
     name: 'Meera Lakshmi',
     event: 'Baby Shoot & Birthday',
   },

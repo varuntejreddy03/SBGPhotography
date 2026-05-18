@@ -31,19 +31,19 @@ export default function About() {
               className="space-y-12 text-center"
             >
               <div>
-                <h2 className="font-display text-4xl md:text-5xl lg:text-6xl text-gold mb-3">B. Akhil Kumar</h2>
-                <p className="font-body text-sm md:text-base text-cream-muted uppercase tracking-[0.3em]">Founder & Lead Photographer</p>
+                <h2 className="font-display text-4xl md:text-5xl lg:text-6xl text-gold mb-3">SBG Photography</h2>
+                <p className="font-body text-sm md:text-base text-cream-muted uppercase tracking-[0.3em]">A Legacy of Capturing Memories Since 1998</p>
               </div>
               
               <div className="space-y-6 font-body text-cream/80 leading-relaxed text-base md:text-lg max-w-3xl mx-auto text-left sm:text-center">
                 <p>
-                  At SBG Photography, we believe that the most powerful stories are told without words. Founded by B. Akhil Kumar, our studio has dedicated itself to the fine art of cinematic photography and videography.
+                  SBG Photography was founded in 1998 with a simple belief — the most powerful stories are told without words. What began as a passionate endeavor has now grown into a legacy spanning over two decades.
                 </p>
                 <p>
-                  What started as a passionate endeavor has blossomed into a full-scale luxury production house. We don't just point and shoot; we compose, direct, and meticulously craft frames that evoke genuine emotion.
+                  In 2010, the next generation took the reins, carrying forward the same dedication to the fine art of cinematic photography and videography. We don't just point and shoot; we compose, direct, and meticulously craft frames that evoke genuine emotion.
                 </p>
                 <p>
-                  Whether it's the subtle tear at a wedding altar or the vibrant energy of a birthday celebration, our goal is to freeze time beautifully so that your legacy can be cherished for generations to come.
+                  Whether it's the subtle tear at a wedding altar or the vibrant energy of a birthday celebration, our goal is to freeze time beautifully so that your memories can be cherished for generations to come.
                 </p>
               </div>
 
